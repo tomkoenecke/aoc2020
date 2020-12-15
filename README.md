@@ -17,7 +17,7 @@ Day | Completed | Difficulty
 7   | yes | 5/10
 8   | yes | 4/10
 9   | yes | 5/10
-10  | yes | /10
+10  | yes | 5/10
 11  | yes | 6/10
 12  |  | /10
 13  |  | /10
